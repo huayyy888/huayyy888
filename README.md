@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning **Diploma in Information Technology**
 
 - 📫 How to reach me **patricialh-wg23@student.tarc.edu.my**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
