@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huayyy888&label=Profile%20views&color=0e75b6&style=flat" alt="huayyy888" /> </p>
 
-- 🌱 I’m currently learning **Diploma in Information Technology**
+- 🌱 I’m currently learning **Degree in Data Science**
 
 - 📫 How to reach me **patricialh-wg23@student.tarc.edu.my**
 <p align="left">
